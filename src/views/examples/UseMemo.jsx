@@ -28,7 +28,7 @@ const UseMemo = (props) => {
     Este exercício demonstra que o useMemo apenas leva em consideração as mudanças de estado do n1 e n2 (através do
      delay no tempo
      */
-    
+
     return (
         <div className="UseMemo">
             <PageTitle
